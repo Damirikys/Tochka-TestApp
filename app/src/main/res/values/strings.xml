@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tochka</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <integer name="com_vk_sdk_AppId">6850770</integer>
+    <string name="facebook_app_id">395256501230172</string>
+    <string name="fb_login_protocol_scheme">fb395256501230172</string>
+    <string name="main_drawer_menu_settings">Settings</string>
+    <string name="main_drawer_menu_logout">Log out</string>
+    <string name="main_search_hint">Enter github username...</string>
+    <string name="auth_vk_text">ВКонтакте</string>
+    <string name="auth_google_text">Google</string>
+    <string name="auth_fb_text">Facebook</string>
+</resources>

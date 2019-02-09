@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "459203154379",
+    "firebase_url": "https://tochka-testapp.firebaseio.com",
+    "project_id": "tochka-testapp",
+    "storage_bucket": "tochka-testapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459203154379:android:3eed2739f362f573",
+        "android_client_info": {
+          "package_name": "pro.jeminay.tochka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459203154379-732nfouant275u9s80rpt15ej5aejl56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzrq1lQXcTWtWEKnFQnBBMfOjLQ5s9Ps0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
